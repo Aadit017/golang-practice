@@ -1,5 +1,5 @@
 # Learning Golang under 72 hours
-
+![Go Logo](https://d1q6f0aelx0por.cloudfront.net/product-logos/library-golang-logo.png)
 Hey there , Im [Aadit](https://github.com/Aadit017) , a second year student currently pursuing ece with passion for coding. I've currently taken on this challenge to learn Golang within 72 hours and create a Demo Terminal [like hyperterminal] using golang and serveral other dependencies. I'll be mentioning the sources used as I move along the way.
 
 
