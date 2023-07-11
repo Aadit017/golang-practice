@@ -24,6 +24,7 @@ The end goal of this challenge is to make a terminal using Golang. Ill try to ad
 
 
 ## Learning Curve
+![damn ikr ?](https://media.discordapp.net/attachments/1022778108312559639/1128322713388318810/goalng.png?width=920&height=254)
 
 My goal is to learn enough of this language to make my project easily without any hurdle. I already know languages such as Java, Javascript , Python and C , so working with golang should'nt be that big of a problem for me ~~or is it~~
 
