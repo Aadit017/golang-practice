@@ -34,3 +34,5 @@ My goal is to learn enough of this language to make my project easily without an
 - So , I wouldn't lie I had to work my way around getting used to the file structure in go. Apparently you import ``packages`` in go. I found this pretty weird cos I made two separate files in the same folder `root/learning/hello` and `root/learning/externalpck` and both of them contain this line of code `package main` . I couldnt declare the main function in my second file since `redeclaration` is not allowed in go. This made me realized that whatever is present inside a package , acts as a single thing of its own. Definitely different from the basic import and export structure of Java.
 
 - Definitely enjoyed naming my variables with ``:=`` . Although its not a lot per say but it def makes the language fun to learn. Messed around a bit with modules and packages . Def wld be giving this topic extra attention.
+
+- 2 hours into golang and I've decided to give the packages and import function of go another hour. I find the documentation very helpful at this point ,I wont lie its better than most tutorials out there.  
