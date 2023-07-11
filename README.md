@@ -7,7 +7,7 @@ Hey there , Im [Aadit](https://github.com/Aadit017) , a second year student curr
 2. Main Project([Terminal](https://github.com/Aadit017/golang-practice#main-project))
 3. [Practice](https://github.com/Aadit017/golang-practice#learning-curve)/Tutorials
 
-
+~~*[Better way to check this out](https://github1s.com/Aadit017/golang-practice)*~~
 # Sources used 
 
  - [FreeCodeCamps](https://www.youtube.com/watch?v=un6ZyFkqFKo) youtube video 
@@ -27,6 +27,10 @@ The end goal of this challenge is to make a terminal using Golang. Ill try to ad
 
 My goal is to learn enough of this language to make my project easily without any hurdle. I already know languages such as Java, Javascript , Python and C , so working with golang should'nt be that big of a problem for me ~~or is it~~
 
-```Content ahead written in the Present tense```
+```Content being updated as I go through this```
 
 - Currently , I've gone through the basics with the help of chat gpt . Didnt realize go had its own version of ``npm init`` which is ``go mod init <name>``. Ive made the folders and stuff , done a bit of Chat Gpt and now Im ready to go. I'll be surfing through the tutorial vid right now to learn some more.
+
+- So , I wouldn't lie I had to work my way around getting used to the file structure in go. Apparently you import ``packages`` in go. I found this pretty weird cos I made two separate files in the same folder `root/learning/hello` and `root/learning/externalpck` and both of them contain this line of code `package main` . I couldnt declare the main function in my second file since `redeclaration` is not allowed in go. This made me realized that whatever is present inside a package , acts as a single thing of its own. Definitely different from the basic import and export structure of Java.
+
+- Definitely enjoy naming my variables with ``:=``

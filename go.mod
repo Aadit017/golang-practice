@@ -1,3 +1,3 @@
-module aadit_is_learning
+module example.com/main
 
 go 1.20
