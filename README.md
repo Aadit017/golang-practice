@@ -36,5 +36,7 @@ My goal is to learn enough of this language to make my project easily without an
 
 - Definitely enjoyed naming my variables with ``:=`` . Although its not a lot per say but it def makes the language fun to learn. Messed around a bit with modules and packages . Def wld be giving this topic extra attention.
 
-- 2 hours into golang and I've decided to give the packages and import function of go another hour. I find the documentation very helpful at this point ,I wont lie its better than most tutorials out there. Once  Im done with this topic , I'll be speedrunning the basic syntax and the basic stuff cos cmon' , if you can learn Java , you can basically learn anything.
+- 2 hours into golang and I've decided to give the packages and import function of go another hour. I find the documentation very helpful at this point ,I wont lie its better than most tutorials out there. Once  Im done with this topic , I'll be speedrunning the basic syntax and the basic stuff cos cmon' , if you can learn Java , you can basically learn anything. Also a special thanks to the creator of this [video](https://www.youtube.com/watch?v=nLaxs5w9bZc&t=90s). 
+
+- Done with the basics of this language , left the difficult topics for now ~~ofc~~ . Now , the moment I had been waiting for since so long is finally here , I start coding up my project . The details about this Project will be explained in its own [section](https://github.com/Aadit017/golang-practice#main-project)
 
