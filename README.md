@@ -1,6 +1,6 @@
-# Learning Golang under 72 hours
+# Learning Golang 
 ![Go Logo](https://d1q6f0aelx0por.cloudfront.net/product-logos/library-golang-logo.png)
-Hey there , Im [Aadit](https://github.com/Aadit017) , a second year student currently pursuing ece with passion for coding. I've currently taken on this challenge to learn Golang within 72 hours and create a Demo Terminal [like hyperterminal] using golang and serveral other dependencies. I'll be mentioning the sources used as I move along the way.
+Hey there , Im [Aadit](https://github.com/Aadit017) , a second year student currently pursuing ece with passion for coding. I've currently taken on this challenge to learn Golang and create a Demo Terminal [like hyperterminal] using golang and serveral other dependencies. I'll be mentioning the sources used as I move along the way.
 
 ##  Index
 1. [Sources](https://github.com/Aadit017/golang-practice#sources-used) 
@@ -24,7 +24,7 @@ The end goal of this challenge is to make a terminal using Golang. Ill try to ad
 
 
 ## Learning Curve
-![damn ikr ?](https://media.discordapp.net/attachments/1022778108312559639/1128322713388318810/goalng.png?width=920&height=254)
+
 
 My goal is to learn enough of this language to make my project easily without any hurdle. I already know languages such as Java, Javascript , Python and C , so working with golang should'nt be that big of a problem for me ~~or is it~~
 
